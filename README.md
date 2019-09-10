@@ -9,7 +9,7 @@ This repository features 2 algorithms
 
 - CPL-SLAM:  a certifiably correct algorithm for performing graph-based SLAM *with and without landmarks* using the *complex number representation*.
 
-The performance comparison of  SE-Sync and CPL-SLAM on planar PGO is shown as follows:
+The performance comparison of  SE-Sync and CPL-SLAM on planar graph-based SLAM is shown as follows:
 
 <p float="left", align="center">
 <img src="./figures/rtr.png" width="400"/>
