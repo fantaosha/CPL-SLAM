@@ -22,6 +22,10 @@ The performance comparison of  SE-Sync and CPL-SLAM on planar graph-based SLAM i
 
 The C++ implementation of CPL-SLAM can be built and exported as a CMake project. For a minimal working example, see [examples/cpl_slam](./C++/examples/cpl_slam.cpp), which provides a simple command-line utility for processing .g2o files.
 
+# Acknowledgements
+We use David M. Rosen's [optimizaiton tools](https://github.com/david-m-rosen/Optimization) and Yixuan Qiu's [Spectra](https://github.com/yixuan/spectra) in our CPL-SLAM.
+
+
 ## Copyright and License 
 
 The C++ implementations of CPL-SLAM contained herein are copyright (C) 2018 - 2019 by Taosha Fan, and are distributed under the terms of the GNU Lesser General Public License (LGPL) version 3 (or later).  Please see the [LICENSE](./LICENSE) for more information.
