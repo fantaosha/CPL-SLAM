@@ -30,4 +30,4 @@ We use David M. Rosen's [optimizaiton tools](https://github.com/david-m-rosen/Op
 
 The C++ implementations of CPL-SLAM contained herein are copyright (C) 2018 - 2019 by Taosha Fan, and are distributed under the terms of the GNU Lesser General Public License (LGPL) version 3 (or later).  Please see the [LICENSE](./LICENSE) for more information.
 
-Contact: taosha.fan@gmail.com, hanlinwang@u.northwestern.edu
+Contact: taosha.fan@gmail.com
